@@ -24,7 +24,7 @@
 5. Clone repository:
    `git clone <repo_url.git>`
    example:
-   `git clone git@github.com:expressjs/express.git`
+   `git clone git@github.com:jpechavarria/hobbieshub.git`
 
 
 ## Day to day tasks, new feature, bug fix, ticket etc
