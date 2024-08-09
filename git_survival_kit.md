@@ -25,7 +25,7 @@
 
 5. Set global user name & global email:
    * `git config --global user.name "<your name>"`
-     * example: `git config --global user.name "email@example.com"`
+     * example: `git config --global user.name "Johann Echavarria"`
    * `git config --global user.email "<your email>"`
      * example: `git config --global user.email "email@example.com"`
 
