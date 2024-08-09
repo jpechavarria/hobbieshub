@@ -15,17 +15,16 @@
       Copy and paste into github (or Gitlab, Bitbucket, Codecommit etc.) settings (just the public key `.pub`):
         `cat ~/.ssh/id_rsa.pub`
 
-4. Set global user name & global email:
-   * `git config --global user.name "<your name>"`
-     * example: `git config --global user.name "email@example.com"`
-   * `git config --global user.email "<your email>"`
-     * example: `git config --global user.email "email@example.com"`
-
-5. Clone repository:
+4. Clone repository:
    `git clone <repo_url.git>`
    example:
    `git clone git@github.com:jpechavarria/hobbieshub.git`
 
+5. Set global user name & global email:
+   * `git config --global user.name "<your name>"`
+     * example: `git config --global user.name "email@example.com"`
+   * `git config --global user.email "<your email>"`
+     * example: `git config --global user.email "email@example.com"`
 
 ## Day to day tasks, new feature, bug fix, ticket etc
 
