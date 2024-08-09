@@ -3,7 +3,7 @@
 ## One time tasks
 
 1. Install git
-2. Register user in git version control platworm (Github, Gitlab, Bitbucket, Codecommit, etc).
+2. Register user in git version control platform (Github, Gitlab, Bitbucket, Codecommit, etc).
 3. SSH key registering in git version control platworm (Github, Gitlab, Bitbucket, Codecommit etc.). Make sure you have a SSH key. Steps using terminal: (in Windows use git bash):
   * Check if you already have one:
       `ls -al ~/.ssh`
