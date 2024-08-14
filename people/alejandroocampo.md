@@ -33,7 +33,7 @@ I like to take panoramic photos. Just wanna learn more about this hobby
 * The Mitchells vs. the Machines
 * X-men movies
 
-Series
+Series oldies
 
 * The office
 * Suits
