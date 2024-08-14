@@ -9,3 +9,10 @@
 * Create a PR.
 * Fix possible conflicts.
 * Try to make experiments.
+
+## Points:
+  * First pr: 1
+  * First pr merged: 1
+  * Personal file created: 1
+  * Alphabetically index updated: 1
+  * Extra points for create or update a hobbies md file: 2
