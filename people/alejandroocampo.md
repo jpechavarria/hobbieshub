@@ -1,4 +1,4 @@
-# Alejandro Ocampo Gómez (sirLejo)
+# Alejandro Ocampo Gómez
 
 ## Hobbies
 
@@ -16,13 +16,13 @@ When I was younger (in fact I still am) I used to put puzzles together. I have a
 
 ### 3. Photography
 
-I like to take panoramic photos. Just wanna learn more about this hobby 
+I like to take panoramic photos. Just wanna learn more about this hobby
 
-### 4. Movies
+### 4. Movies - Series
 
 10 of my favorite movies:
 
-* Interstellar 
+* Interstellar
 * Back to the future (all the trilogy)
 * The Fifth Element
 * Spider-man movies
@@ -33,9 +33,19 @@ I like to take panoramic photos. Just wanna learn more about this hobby
 * The Mitchells vs. the Machines
 * X-men movies
 
+Series oldies
+
+* The office
+* Suits
+* Scorpion
+* The fresh Prince of Bel-Air
+
+Anime
+
+* Saint Seiya (TLC - Best spin-off ever )
+* Dragon ball
 
 ### 5. Music
 
 * Electronic
 * Rock
-
